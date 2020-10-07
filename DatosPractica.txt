@@ -1,3 +1,4 @@
 Nombre:
 Edad:
 Videojuegos que juegas actualmente:
+Videojuegos favoritos:
