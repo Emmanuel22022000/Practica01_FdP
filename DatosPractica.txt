@@ -6,4 +6,4 @@ Carrera:Ingenieria Geofisica
 Especialidad:Ninguna
 Materia: Fundamentos de Programacion
 Semestre: 4to semestre
-
+¿Trabajas?
